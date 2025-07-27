@@ -15,17 +15,21 @@ To use this project, you need to get an **API key** from the OMDB API. Follow th
 
 Replace the placeholder `YOUR_API_KEY` in the JavaScript file (`script.js`) with your API key.
 
----
 
-## Repository Structure
+## 🖼️ Preview
 
-- **Starter Files**:
-  - Includes the complete HTML and CSS files.
-  - Allows you to focus on writing JavaScript for functionality.
-- **Final Files**:
-  - Includes the fully implemented project with HTML, CSS, and JavaScript.
+### 🏠 Home Page  
+![Home Page](screenshots/home_page.png)
+
+> This screenshot shows the search bar, movie cards, and overall UI of the Movie Search App.
 
 ---
+
+## Features
+
+- Search for movies using the OMDB API.
+- Save favorite movies in **localStorage**.
+- Dynamically add and remove movies from the favorites list.
 
 ## How to Use
 
@@ -39,10 +43,13 @@ Replace the placeholder `YOUR_API_KEY` in the JavaScript file (`script.js`) with
 
 ---
 
-## Features
+---
 
-- Search for movies using the OMDB API.
-- Save favorite movies in **localStorage**.
-- Dynamically add and remove movies from the favorites list.
+## 🧾 Repository Structure
+
+- **Final Files**:  
+  Fully implemented project with HTML, CSS, and JavaScript.
+
+---
 
 Enjoy coding! 🚀
